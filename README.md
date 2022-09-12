@@ -110,7 +110,7 @@ My Barnard Mutezo or "Ben" for short. I'm a passionate "Intelligent systems" stu
             <img src="https://w7.pngwing.com/pngs/310/448/png-transparent-study-skills-education-learning-computer-icons-sc-logo-angle-hat-teacher.png"
                 alt="c" width="25" height="25" />
         </a>
-        <a href="https://github.com/barnardmutezo-edu/barnardmutezo-hobby">
+        <a href="https://github.com/barnardmutezo-hobby/barnardmutezo-hobby">
             Barnard Mutezo - Hobby
         </a>
         <a style="font-style: italic">
