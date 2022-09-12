@@ -118,5 +118,9 @@ My name is Barnard Mutezo or "Ben" for short. I'm a passionate "Intelligent syst
         </a>
     </div>
 </div>
+<br/>
+<br/>
+<hr/>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benmutezo)](https://github.com/anuraghazra/github-readme-stats)
