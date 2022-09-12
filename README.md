@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi there 👋🏾
+
+<h2>About me</h2>
 
 My Barnard Mutezo or "Ben" for short. I'm a passionate "Intelligent systems" student based in Oslo, Norway. I realy enjoy tinkering and working with embedded devices while writing C/C++ code! 
 
-Technology Stack
+<h2>Tech Stack</h2>
+
 <div style="display: inline">
     <a href=https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
         <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"
@@ -75,12 +78,18 @@ Technology Stack
     <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
         <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/css/css.png"
             alt="css" width="40" height="40" />
+    </a>       
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/git/git.png"
+            alt="git" width="40" height="40" />
     </a>   
- 
+    <a href="https://en.wikipedia.org/wiki/Computer_terminal" target="_blank">
+        <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/terminal/terminal.png"
+            alt="git" width="40" height="40" />
+    </a>   
 </div>
 
 
-
-
+<h2>Projects</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benmutezo)](https://github.com/anuraghazra/github-readme-stats)
