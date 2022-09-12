@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 
-My name is Barnard Mutezo or "Ben" for short. I'm a passionate "Intelligent systems" student based in Oslo, Norway. I realy enjoy tinkering and working with embedded devices while writing C/C++ code! 
+My name is Barnard Mutezo or "Ben" for short. I'm a passionate "Intelligent systems" student based in Oslo, Norway. I really enjoy tinkering and working with embedded devices while writing C/C++ code! 
 
 <h2>Tech Stack</h2>
 
