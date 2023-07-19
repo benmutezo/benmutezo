@@ -123,4 +123,4 @@ Currently i am in my final year for a degree in Intelligent systems. My passion 
 <br/>
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benmutezo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=benmutezo)](https://github.com/anuraghazra/github-readme-stats)
