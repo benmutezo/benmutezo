@@ -123,4 +123,4 @@ Currently i am in my final year for a degree in Intelligent systems. My passion 
 <br/>
 <hr/>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=benmutezo)](https://github.com/benmutezo/github-readme-stats)
+[![ben GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=benmutezo&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/benmutezo)
