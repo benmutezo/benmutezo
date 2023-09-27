@@ -3,7 +3,7 @@
 <h2>About me</h2>
 
 My name is Barnard Mutezo or "Ben" for short.
-I have recently aqcured a B.Sc. degree in Intelligent Systems. My passion is tinkering with embedded devices while writing C/C++ code! 
+I have recently acquired a B.Sc. degree in Intelligent Systems. My passion is tinkering with embedded devices while writing C/C++ code! 
 
 <h2>Personal Project Organizations</h2>
 
